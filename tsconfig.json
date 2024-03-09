@@ -1,0 +1,21 @@
+{
+	"compilerOptions": {
+		"target": "ES2022",
+		"module": "commonjs",
+		"sourceMap": true,
+		"esModuleInterop": true,
+		"forceConsistentCasingInFileNames": true,
+		"strict": false,
+		"rootDir": ".",
+		"outDir": "./dist",
+		"skipLibCheck": true,
+		"allowJs": true,
+		"lib": ["es6"],
+		"emitDecoratorMetadata": true,
+		"experimentalDecorators": true,
+		"removeComments": true,
+		"resolveJsonModule": true,
+		"isolatedModules": true
+	},
+	"exclude": ["node_modules"]
+}
